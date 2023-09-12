@@ -9,13 +9,21 @@ To get started, the code required to generate random geographic coordinates and 
 Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
-Latitude vs. Temperature
+**Temperature vs. Latitude**
 
-Latitude vs. Humidity
+![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig1.png)
 
-Latitude vs. Cloudiness
+** Latitude vs. Humidity **
 
-Latitude vs. Wind Speed
+![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig2.png)
+
+** Latitude vs. Cloudiness **
+
+![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig3.png)
+
+** Latitude vs. Wind Speed **
+
+![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig4.png)
 
 Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
