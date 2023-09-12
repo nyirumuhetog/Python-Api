@@ -33,21 +33,61 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 
 You should create the following plots:
 
-Northern Hemisphere: Temperature vs. Latitude
+**Northern Hemisphere: Temperature vs. Latitude**
 
-Southern Hemisphere: Temperature vs. Latitude
+The r-value is:-0.15617780118844007
 
-Northern Hemisphere: Humidity vs. Latitude
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/776b3300-1062-42b4-8664-51639fea95a8)
 
-Southern Hemisphere: Humidity vs. Latitude
 
-Northern Hemisphere: Cloudiness vs. Latitude
+**Southern Hemisphere: Temperature vs. Latitude**
 
-Southern Hemisphere: Cloudiness vs. Latitude
+The r-value is:0.013812798389285697
 
-Northern Hemisphere: Wind Speed vs. Latitude
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/617355f1-945d-411e-a7aa-d54a798209b3)
 
-Southern Hemisphere: Wind Speed vs. Latitude
+
+**Northern Hemisphere: Humidity vs. Latitude**
+
+The r-value is:-0.0567045818222964
+
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/e95bdb42-592b-4343-8163-6465bf30d3a8)
+
+
+**Southern Hemisphere: Humidity vs. Latitude**
+
+The r-value is:-0.0714796973355864
+
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/f41fbb73-a575-45e6-9e0b-df6b1d29c2ef)
+
+
+**Northern Hemisphere: Cloudiness vs. Latitude**
+
+The r-value is:0.058944414164278106
+
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/8285e3ee-6f7a-436e-b403-1cf90b43cbd6)
+
+
+**Southern Hemisphere: Cloudiness vs. Latitude**
+
+The r-value is:-0.06353691140094599
+
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/2bf2b9f3-aad3-45c5-93c6-9bd324d9ae3d)
+
+
+**Northern Hemisphere: Wind Speed vs. Latitude**
+
+The r-value is:0.031160468763541355
+
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/4a60910d-1b52-49a3-b469-f2b2aef81e53)
+
+
+**Southern Hemisphere: Wind Speed vs. Latitude**
+
+The r-value is:-0.09741921128574052
+
+![image](https://github.com/nyirumuhetog/Python-Api/assets/130715611/92e08637-f7d3-447d-8e03-7e5e7d05d4bd)
+
 
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
