@@ -13,15 +13,15 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 
 ![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig1.png)
 
-** Latitude vs. Humidity **
+**Latitude vs. Humidity**
 
 ![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig2.png)
 
-** Latitude vs. Cloudiness **
+**Latitude vs. Cloudiness**
 
 ![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig3.png)
 
-** Latitude vs. Wind Speed **
+**Latitude vs. Wind Speed**
 
 ![image](https://github.com/nyirumuhetog/Python-Api/blob/76e81d41e808c1865e03f9f2df38be16fc3ab94e/Output_data/Fig4.png)
 
